@@ -9,17 +9,24 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+% Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length!
+
+The purpose of this project is to use AI to augment existing AAC (augmentative and alternative communication) devices for people with disabilities affecting communication.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+AAC is probably most widely known for its use by nonspeaking autistic people. However, there is a wide range of other disabilities that can also affect communication and which may be supported with AAC, including:
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* dementia
+* strokes
+* traumatic brain injuries
+* brain cancers
+* motor neuron diseases
+* cerebral palsy
+* and more
+
+Despite AAC's association with autism, non-autistic people have a good reason to be invested in quality AAC-- on the one hand, they can be affected by the aforementioned communication disorders at any time in their lives, and on the other hand, they may meet, work with, or become the relative of a nonspeaking autistic person at some point in their lives and they would benefit from being able to communicate more effectively with one another.
 
 
 ## How is it used?
@@ -64,12 +71,11 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The AI-generated responses based on user input may not always accurately predict the user's intentions, leaving room for miscommunication. For some people with communication challenges, it can be difficult to determine if they have other impairments e.g. with comprehension or cognitive challenges that could make the app more difficult to use. 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+In order to implement this project I would need to learn more about app development or work with someone with experience in app development to actually create it. It may also be beneficial to consult with a nonspeaking autistic person about what they would find helpful.
 
 ## Acknowledgments
 
