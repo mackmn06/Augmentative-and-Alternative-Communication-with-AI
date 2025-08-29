@@ -11,7 +11,7 @@ Final project for the Building AI course
 
 % Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length!
 
-The purpose of this project is to use AI to augment existing AAC (augmentative and alternative communication) devices for people with disabilities affecting communication.
+The purpose of this project is to use AI to augment existing AAC (augmentative and alternative communication) devices/applications for people with disabilities affecting communication. This project would take simplified inputs from users and would generate multiple predictions of the user's intended message. Additionally, this application would take complex pieces of text or speech and rewrite it in simplified language to make it easier for the user to understand without requiring excess time or effort.
 
 
 ## Background
@@ -26,10 +26,14 @@ AAC is probably most widely known for its use by nonspeaking autistic people. Ho
 * cerebral palsy
 * and more
 
-Despite AAC's association with autism, non-autistic people have a good reason to be invested in quality AAC-- on the one hand, they can be affected by the aforementioned communication disorders at any time in their lives, and on the other hand, they may meet, work with, or become the relative of a nonspeaking autistic person at some point in their lives and they would benefit from being able to communicate more effectively with one another.
+Despite AAC's association with autism, non-autistic people also have a good reason to be invested in quality AAC-- not only can anyone become affected by communication disorders at any time in their lives, but non-autistic people may still meet, work with, or become the relative of a nonspeaking autistic person at some point in their lives. Therefore everyone would benefit from expanding communication options for people with disabilities affecting communication. 
+
+For disabled users, being able to quickly express themselves in language that is easy for others to understand helps reduce dangerous communication challenges (such as reporting abuse, dealing with law enforcement/security personnel, or describing medical problems) and also helps users live with more dignity and respect from their communities.
 
 
 ## How is it used?
+
+AAC devices/applications can take many different forms depending on the user's limitations and support needs. Some users may have no trouble understanding language or explicitly planning what they mean to say, but may mainly struggle with the motor control needed to produce speech or write text. Others may struggle with understanding language, such as understanding/remembering the meaning of words without pictoral representations, understanding correct grammar usage, etc.
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
@@ -60,6 +64,8 @@ main()
 
 
 ## Data sources and AI methods
+
+This project would employ an NLP like ChatGPT to make predictions about the user's intended message based on a very limited/simplified input. 
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
