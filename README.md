@@ -9,8 +9,6 @@ Final project for the Building AI course
 
 ## Summary
 
-% Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length!
-
 The purpose of this project is to use AI to augment existing AAC (augmentative and alternative communication) devices/applications for people with disabilities affecting communication. This project would take simplified inputs from users and would generate multiple predictions of the user's intended message. Additionally, this application would take complex pieces of text or speech and rewrite it in simplified language to make it easier for the user to understand without requiring excess time or effort.
 
 
@@ -33,7 +31,11 @@ For disabled users, being able to quickly express themselves in language that is
 
 ## How is it used?
 
-AAC devices/applications can take many different forms depending on the user's limitations and support needs. Some users may have no trouble understanding language or explicitly planning what they mean to say, but may mainly struggle with the motor control needed to produce speech or write text. Others may struggle with understanding language, such as understanding/remembering the meaning of words without pictoral representations, understanding correct grammar usage, etc.
+AAC devices/applications can take many different forms depending on the user's limitations and support needs. 
+
+Some users may have no trouble understanding language or explicitly planning what they mean to say, but may mainly struggle with the motor control needed to produce speech or write text. These users may use a letterboard, eye tracking, or hunt-and-peck typing to produce text. These users may be able to produce grammatically correct and easy-to-understand text, but the process of producing it is often time-consuming and may require physical support from another person, which can cause doubts about whether the support person is inserting their own influence into the generated text (such as in the controversial case of Derrick Johnson, a young man with cerebral palsy, and Anna Stubblefield, one of his caregivers who was convicted of sexually assaulting him after claiming he consented through "facilitated communication" with him).
+
+Other users may struggle with understanding language, such as understanding/remembering the meaning of words without pictoral representations, understanding correct grammar usage, etc. These users may use apps or devices that break words down by category/frequency and identifies different words with an image or icon in addition to the written word.
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
