@@ -60,6 +60,8 @@ Example setup of AAC app:
 
 Unlike traditional predictive text, this app would not simply predict individual words based on user input. Rather, this app would take a string of short words (which could, for example, be typed with predictive text or icon-based AAC) and would generate multiple examples in long-form, grammatically correct sentences. The user could then chose from the list of longer messages to express their true intent.
 
+![Cat](/"example 1")
+
 The app would also have an option to take complex input text and rewrite it in simplified language to be easier to follow and understand for users with attention or receptive language issues.
 
 ## Data sources and AI methods
