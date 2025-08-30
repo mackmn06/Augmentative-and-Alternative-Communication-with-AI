@@ -5,7 +5,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 # Augmentative-and-Alternative-Communication-with-AI
 using NLP to assist people with disabilities in generating and interpreting speech
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
