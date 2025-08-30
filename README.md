@@ -45,7 +45,7 @@ Other users may struggle with understanding language, such as understanding/reme
 
 <img src="https://images.ctfassets.net/67wivm6jm6qo/6nsSi8g3CBam4kpnNfCyMx/e45e3acdf8d8e10cfa154b5697579dff/FOF-Incorportaing-AAC-3.jpg?w=1000&q=100" width="500">
 
-<img src="[https://images.ctfassets.net/67wivm6jm6qo/6nsSi8g3CBam4kpnNfCyMx/e45e3acdf8d8e10cfa154b5697579dff/FOF-Incorportaing-AAC-3.jpg?w=1000&q=100](https://i.ytimg.com/vi/9teZwNf8dP0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAqYCRKy7Ts1-TFNVYzJOHfXT_UjA)" width="500">
+<img src="https://i.ytimg.com/vi/9teZwNf8dP0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAqYCRKy7Ts1-TFNVYzJOHfXT_UjA" width="500">
 
 
 
