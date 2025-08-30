@@ -35,15 +35,18 @@ AAC devices/applications can take many different forms depending on the user's l
 
 Some users may have no trouble understanding language or explicitly planning what they mean to say, but may mainly struggle with the motor control needed to produce speech or write text. These users may use a letterboard, eye tracking, or hunt-and-peck typing to produce text. These users may be able to produce grammatically correct and easy-to-understand text, but it's often time-consuming to produce and may require physical support from another person. This can cause doubts about whether the support person is inserting their own influence into the generated text (see the Derrick Johnson/Anna Stubblefield case).
 
-<img src="https://i.ytimg.com/vi/9teZwNf8dP0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAqYCRKy7Ts1-TFNVYzJOHfXT_UjA" width="300">
+<img src="https://i.ytimg.com/vi/9teZwNf8dP0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAqYCRKy7Ts1-TFNVYzJOHfXT_UjA" width="500">
 
-<img src="" width="300">
+<img src="https://magazine.utoronto.ca/wp-content/uploads/2025/01/isaiah-grewal-typing.webp" width="500">
 
 Other users may struggle with understanding language, such as understanding/remembering words without pictoral representations, understanding correct grammar usage, etc. These users may use apps or devices that break words down by category/frequency and labels word buttons with a corresponding image/icon to make them easier for the user to identify.
 
-<img src="https://i.shgcdn.com/fe0ce32e-fbce-4086-a985-8c08b3578634/" width="300">
+<img src="https://i.shgcdn.com/fe0ce32e-fbce-4086-a985-8c08b3578634/" width="500">
 
-<img src="https://images.ctfassets.net/67wivm6jm6qo/6nsSi8g3CBam4kpnNfCyMx/e45e3acdf8d8e10cfa154b5697579dff/FOF-Incorportaing-AAC-3.jpg?w=1000&q=100" width="300">
+<img src="https://images.ctfassets.net/67wivm6jm6qo/6nsSi8g3CBam4kpnNfCyMx/e45e3acdf8d8e10cfa154b5697579dff/FOF-Incorportaing-AAC-3.jpg?w=1000&q=100" width="500">
+
+<img src="[https://images.ctfassets.net/67wivm6jm6qo/6nsSi8g3CBam4kpnNfCyMx/e45e3acdf8d8e10cfa154b5697579dff/FOF-Incorportaing-AAC-3.jpg?w=1000&q=100](https://i.ytimg.com/vi/9teZwNf8dP0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAqYCRKy7Ts1-TFNVYzJOHfXT_UjA)" width="500">
+
 
 
 %Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
