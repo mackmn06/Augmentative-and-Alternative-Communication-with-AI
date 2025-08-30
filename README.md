@@ -60,14 +60,16 @@ Example setup of AAC app:
 
 Unlike traditional predictive text, this app would not simply predict individual words based on user input. Rather, this app would take a string of short words (which could, for example, be typed with predictive text or icon-based AAC) and would generate multiple examples in long-form, grammatically correct sentences. The user could then chose from the list of longer messages to express their true intent.
 
-![Alt text](images/example1.png)
+![Example AI-generated responses](images/example1.png)
 
 
 The app would also have an option to take complex input text and rewrite it in simplified language to be easier to follow and understand for users with attention or receptive language issues.
 
+![Example AI-simplified text](images/example2.png)
+
 ## Data sources and AI methods
 
-This project would employ an NLP like ChatGPT to make predictions about the user's intended message based on a very limited/simplified input. Messages would be generated based on the frequency of the key words inputted. Similarly, complex messages for the user could be simplified with an NLP like ChatGPT.
+This project would employ an LLM like ChatGPT to make predictions about the user's intended message based on a very limited/simplified input. Messages would be generated based on the frequency of the key words inputted. Similarly, complex messages for the user could be simplified with an LLM like ChatGPT.
 
 
 The model could also potentially update its training data with each user choice to get a better sense of how each individual user tends to use keywords and what the individual user's preferences are.
@@ -75,11 +77,11 @@ The model could also potentially update its training data with each user choice 
 
 ## Challenges
 
-The AI-generated responses based on user input may not always accurately predict the user's intentions, leaving room for miscommunication. For some people with communication challenges, it can be difficult to determine if they have other impairments e.g. with comprehension or cognitive challenges that could make the app more difficult to use. 
+The AI-generated responses based on user input may not always accurately predict the user's intentions, leaving room for miscommunication. For some people with communication challenges, it can be difficult to determine if they have other impairments e.g. with comprehension or cognitive challenges that could make the app more difficult to use. There are also many different kinds of AAC inputs and so the app would have to be adaptable to multiple types of inputs.
 
 ## What next?
 
-In order to implement this project I would need to learn more about app development or work with someone with experience in app development to actually create it. It may also be beneficial to consult with a nonspeaking autistic person about what they would find helpful.
+In order to implement this project I would need to learn more about app development or work with someone with experience in app development to actually create it. It may also be beneficial to consult with a nonspeaking autistic person about what they would find helpful or what changes could be made to improve the app.
 
 ## Acknowledgments
 
