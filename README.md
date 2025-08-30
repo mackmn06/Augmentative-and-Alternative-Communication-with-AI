@@ -58,46 +58,17 @@ Example setup of AAC app:
 
 <img src="https://i.shgcdn.com/fe0ce32e-fbce-4086-a985-8c08b3578634/" width="500">
 
+Unlike traditional predictive text, this app would not simply predict individual words based on user input. Rather, this app would take a string of short words (which could, for example, be typed with predictive text or icon-based AAC) and would generate multiple examples in long-form, grammatically correct sentences. The user could then chose from the list of longer messages to express their true intent.
 
-
-
-%Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+The app would also have an option to take complex input text and rewrite it in simplified language to be easier to follow and understand for users with attention or receptive language issues.
 
 ## Data sources and AI methods
 
-This project would employ an NLP like ChatGPT to make predictions about the user's intended message based on a very limited/simplified input. 
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+This project would employ an NLP like ChatGPT to make predictions about the user's intended message based on a very limited/simplified input. Messages would be generated based on the frequency of the key words inputted. Similarly, complex messages for the user could be simplified with an NLP like ChatGPT.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
+The model could also potentially update its training data with each user choice to get a better sense of how each individual user tends to use keywords and what the individual user's preferences are.
+
 
 ## Challenges
 
